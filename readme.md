@@ -144,7 +144,7 @@ SilverLink ESP32 IoT Controller is a robust, production-ready IoT system designe
 ### 🔧 Initial Setup (First Time)
 
 1. **Power on ESP32** - LED should indicate setup mode
-2. **Connect to WiFi**: `SilverLink-Setup` (password: `silverlink123`)
+2. **Connect to WiFi**: `SilverLink-Setup`
 3. **Open Browser**: Navigate to `192.168.4.1`
 4. **Configure**:
    - Select your WiFi network
@@ -434,7 +434,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**SilverrLink IoT Project**
+**SilverLink IoT Project**
 
 *One Link, Total Control*
 
