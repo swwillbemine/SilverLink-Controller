@@ -434,9 +434,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**🌱 SilverLink ESP32 IoT Controller v1.3**
+**SilverrLink IoT Project**
 
-*Making Smart Agriculture Accessible*
+*One Link, Total Control*
 
 [![GitHub stars](https://img.shields.io/github/stars/username/silverlink-esp32?style=social)](https://github.com/username/silverlink-esp32/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/username/silverlink-esp32?style=social)](https://github.com/username/silverlink-esp32/network)
